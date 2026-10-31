@@ -1,0 +1,260 @@
+[
+    {
+        "rus": "аэропорт",
+        "eng": "airport",
+        "category": "travel",
+        "level": 1.0
+    },
+    {
+        "rus": "самолет",
+        "eng": "airplane",
+        "category": "travel",
+        "level": 1.0
+    },
+    {
+        "rus": "билет",
+        "eng": "ticket",
+        "category": "travel",
+        "level": 0.5
+    },
+    {
+        "rus": "чемодан",
+        "eng": "suitcase",
+        "category": "travel",
+        "level": 1.0
+    },
+    {
+        "rus": "паспорт",
+        "eng": "passport",
+        "category": "travel",
+        "level": 0.5
+    },
+    {
+        "rus": "отель",
+        "eng": "hotel",
+        "category": "travel",
+        "level": 1.0
+    },
+    {
+        "rus": "карта",
+        "eng": "map",
+        "category": "travel",
+        "level": 1.0
+    },
+    {
+        "rus": "город",
+        "eng": "city",
+        "category": "travel",
+        "level": 1.0
+    },
+    {
+        "rus": "пляж",
+        "eng": "beach",
+        "category": "travel",
+        "level": 1.0
+    },
+    {
+        "rus": "экскурсия",
+        "eng": "tour",
+        "category": "travel",
+        "level": 1.5
+    },
+    {
+        "rus": "гид",
+        "eng": "guide",
+        "category": "travel",
+        "level": 1.0
+    },
+    {
+        "rus": "отдых",
+        "eng": "vacation",
+        "category": "travel",
+        "level": 1.0
+    },
+    {
+        "rus": "мама",
+        "eng": "mother",
+        "category": "family",
+        "level": 1.0
+    },
+    {
+        "rus": "папа",
+        "eng": "father",
+        "category": "family",
+        "level": 1.0
+    },
+    {
+        "rus": "брат",
+        "eng": "brother",
+        "category": "family",
+        "level": 1.0
+    },
+    {
+        "rus": "сестра",
+        "eng": "sister",
+        "category": "family",
+        "level": 1.0
+    },
+    {
+        "rus": "сын",
+        "eng": "son",
+        "category": "family",
+        "level": 1.0
+    },
+    {
+        "rus": "дочь",
+        "eng": "daughter",
+        "category": "family",
+        "level": 0.5
+    },
+    {
+        "rus": "бабушка",
+        "eng": "grandmother",
+        "category": "family",
+        "level": 1.0
+    },
+    {
+        "rus": "дедушка",
+        "eng": "grandfather",
+        "category": "family",
+        "level": 1.0
+    },
+    {
+        "rus": "жена",
+        "eng": "wife",
+        "category": "family",
+        "level": 1.0
+    },
+    {
+        "rus": "муж",
+        "eng": "husband",
+        "category": "family",
+        "level": 0.5
+    },
+    {
+        "rus": "ребенок",
+        "eng": "child",
+        "category": "family",
+        "level": 0.5
+    },
+    {
+        "rus": "родители",
+        "eng": "parents",
+        "category": "family",
+        "level": 0.5
+    },
+    {
+        "rus": "собака",
+        "eng": "dog",
+        "category": "animals",
+        "level": 1.0
+    },
+    {
+        "rus": "птица",
+        "eng": "bird",
+        "category": "animals",
+        "level": 1.0
+    },
+    {
+        "rus": "рыба",
+        "eng": "fish",
+        "category": "animals",
+        "level": 0.5
+    },
+    {
+        "rus": "лошадь",
+        "eng": "horse",
+        "category": "animals",
+        "level": 1.0
+    },
+    {
+        "rus": "корова",
+        "eng": "cow",
+        "category": "animals",
+        "level": 0.5
+    },
+    {
+        "rus": "свинья",
+        "eng": "pig",
+        "category": "animals",
+        "level": 1.0
+    },
+    {
+        "rus": "курица",
+        "eng": "chicken",
+        "category": "animals",
+        "level": 0.5
+    },
+    {
+        "rus": "мышь",
+        "eng": "mouse",
+        "category": "animals",
+        "level": 1.0
+    },
+    {
+        "rus": "волк",
+        "eng": "wolf",
+        "category": "animals",
+        "level": 1.0
+    },
+    {
+        "rus": "лиса",
+        "eng": "fox",
+        "category": "animals",
+        "level": 1.0
+    },
+    {
+        "rus": "медведь",
+        "eng": "bear",
+        "category": "animals",
+        "level": 1.0
+    },
+    {
+        "rus": "надорвать",
+        "eng": "torn open",
+        "category": "couple",
+        "level": 0.1
+    },
+    {
+        "rus": "розетка",
+        "eng": "socket",
+        "category": "couple",
+        "level": 1.0
+    },
+    {
+        "rus": "собственность",
+        "eng": "property",
+        "category": "programming",
+        "level": 0.1
+    },
+    {
+        "rus": "пример",
+        "eng": "instance",
+        "category": "programming",
+        "level": 0.1
+    },
+    {
+        "rus": "владелец",
+        "eng": "owner",
+        "category": "programming",
+        "level": 0.1
+    },
+    {
+        "rus": "требуемый",
+        "eng": "required",
+        "category": "programming",
+        "level": 1.0
+    },
+    {
+        "rus": "глубина",
+        "eng": "depth",
+        "category": "programming",
+        "level": 1.0
+    },
+    {
+        "rus": "превышать",
+        "eng": "exceed",
+        "category": "programming",
+        "level": 1.0
+    }
+]
