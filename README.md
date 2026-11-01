@@ -17,7 +17,7 @@
 ## 📦 Как запустить
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/ВАШ_НИК/EnglishCard.git
+   git clone https://github.com/danpash87-ops/EnglishCard.git
    
 2. Перейдите в папку:
    cd EnglishCard
