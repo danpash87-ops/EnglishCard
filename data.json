@@ -256,5 +256,11 @@
         "eng": "exceed",
         "category": "programming",
         "level": 1.0
+    },
+    {
+        "rus": "доступ",
+        "eng": "access",
+        "category": "programming",
+        "level": 1.0
     }
 ]
