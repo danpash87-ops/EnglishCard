@@ -18,3 +18,9 @@
 1. Склонируйте репозиторий:
    ```bash
    git clone https://github.com/ВАШ_НИК/EnglishCard.git
+   
+2. Перейдите в папку:
+   cd EnglishCard
+   
+3.Запустите:
+   python main.py
